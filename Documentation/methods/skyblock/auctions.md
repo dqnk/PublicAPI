@@ -35,6 +35,7 @@ Returns SkyBlock auctions that are currently active in the in-game Auction House
       "claimed": false,
       "claimed_bidders": [],
       "highest_bid_amount": 256,
+      "bin": True,
       "bids": [
         {
           "auction_id": "bc581ce675e94a0c88ac9deae06090f0",
